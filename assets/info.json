@@ -1,0 +1,213 @@
+{
+  "education": [
+    {
+      "title": "Indian Institute Of Technology (IIT), Indore",
+      "subtitle": "B.Tech in Electrical Engineering",
+      "location": "Indore, India",
+      "date": "2021",
+      "comments": [
+        "CGPA ‑ 8.12/10",
+        "Thesis: A Novel Approach for Face Image Retrieval using Textual Descriptions"
+      ]
+    },
+    {
+      "title": "Narayana Jr. College",
+      "subtitle": "Intermediate/+2, MPC Stream, BSEAP",
+      "location": "Vijayawada, India",
+      "date": "2017",
+      "comments": ["Total Percentage: 97.1%"]
+    },
+    {
+      "title": "Nalanda Vidya Niketan",
+      "subtitle": "Secondary School, CBSE",
+      "location": "Vijayawada, India",
+      "date": "2015",
+      "comments": ["CGPA ‑ 10/10"]
+    }
+  ],
+  "skills": [
+    {
+      "title": "Programming",
+      "icon": "fas fa-code",
+      "skills": [
+        {
+          "name": "C++",
+          "level": 3
+        },
+        {
+          "name": "Python",
+          "level": 3
+        },
+        {
+          "name": "Java",
+          "level": 2
+        },
+        {
+          "name": "TypeScript",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "title": "DevOps",
+      "icon": "fas fa-cloud",
+      "skills": [
+        {
+          "name": "AWS",
+          "level": 1
+        },
+        {
+          "name": "Docker",
+          "level": 2
+        },
+        {
+          "name": "Kubernetes",
+          "level": 3
+        },
+        {
+          "name": "Jenkins",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "title": "Full Stack",
+      "icon": "fas fa-globe",
+      "skills": [
+        {
+          "name": "HTML5, LESS, SASS, Angular, REST API",
+          "level": 3
+        },
+        {
+          "name": "React, Redux, Spring",
+          "level": 2
+        },
+        {
+          "name": "Express, Flask",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "title": "Frameworks",
+      "icon": "fas fa-tools",
+      "skills": [
+        {
+          "name": "PyTorch, Tensorflow",
+          "level": 3
+        },
+        {
+          "name": "OpenCV, Flutter, SQL, MongoDB",
+          "level": 2
+        },
+        {
+          "name": "Caffe, Android Studio",
+          "level": 1
+        }
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "title": "Electrical Engineering",
+      "Courses": [
+        "Advanced Signal Processing",
+        "Control Systems",
+        "Electronic Devices",
+        "Computer Vision"
+      ]
+    },
+    {
+      "title": "Computer Science",
+      "Courses": [
+        "Computer Programming",
+        "Data Structures & Algorithms",
+        "Network Theory",
+        "Microprocessors and Digital Systems",
+        "Communication Systems"
+      ]
+    },
+    {
+      "title": "Full Stack Web Development",
+      "Courses": [
+        "Front‑End Web UI Frameworks and Tools: Bootstrap 4",
+        "Front‑End Web Development with React"
+      ]
+    },
+    {
+      "title": "Cloud and AI",
+      "Courses": [
+        "30 days of Cloud : Cloud Engineering track",
+        "Building Transformer‑Based Natural Language Processing Applications (NVIDIA)"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "title": "FICO",
+      "subtitle": "Software Engineer - Associate",
+      "location": "Bangalore, India",
+      "date": "July 2021 - Present",
+      "comments": [
+        "Built fully automated CI/CD pipelines on Jenkins for containerized applications using Docker, AWS ECR and Kubernetes",
+        "Implemented several API microservices in Spring Boot with Hibernate",
+        "Implemented complete Security mechanisms (like OAuth 2.0, SAML) in Java Spring",
+        "Deployed a centralized monitoring environment(Grafana, Prometheus) which gather system metrics as well as docker run‑time metrics"
+      ]
+    },{
+        "title": "PranavaEET",
+        "subtitle": "Artificial Intelligence Intern",
+        "location": "Hyderabad, India",
+        "date": "May 2018 - June 2018",
+        "comments": [
+          "Wrote a complete python module that provides implementations for Artificial Neural Networks, Convolutional Neural Networks, and Recurrent Neural Networks",
+          "Wrote a module similar to OpenAI gym with Snake and Pacman environments supporting Genetic Algorithms and Q‑Learning",
+          "Benchmarked the custom Neural Network module against the gym",
+          "Compared the metrics with Tensorflow and Pytorch"
+        ]
+      }
+  ],
+  "projects":[
+      {
+        "title": "A Novel Approach for Face Image Retrieval",
+        "subtitle": "Undergraduate research, Dr. Vivek kanhanghad’s lab (Undergraduate thesis)",
+        "location": "IIT Indore, India",
+        "date": "Dec. 2020 - Present",
+        "comments": [
+          "Researched different Image generation & Encoding algorithms.",
+          "Developed a novel Image retrieval pipeline with applications in Forensic sciences.",
+          "Researched different Natural Language generation techniques.",
+          "Generated a dataset with natural face descriptions and the images."
+        ]
+      },{
+        "title": "Intuitive Skeleton Tool for Synfig Studio",
+        "subtitle": "Student, Google Summer Of Code (GSOC)",
+        "location": "Github",
+        "date": "May. 2020 ‑ Aug. 2020",
+        "comments": [
+          "Understood & got accustomed with Synfig Studio’s architecture & codebase.",
+          "Researched other Animation software about Skeleton tools.",
+        "Implemented a simple Skeleton tool that matches the specifications of the organisation and improves on them"
+        ]
+      },{
+        "title": "Motion Matching for Godot Engine",
+        "subtitle": "Student, Google Summer Of Code (GSOC)",
+        "location": "Github",
+        "date": "May. 2019 ‑ Aug. 2019",
+        "comments": [
+          "Researched on Different ML & AI algorithms for Motion matching.",
+          "Made several games & got accustomed to Godot & it’s codebase.",
+          "Implemented the barebones implementation of Motion Matching for Godot Engine."
+        ]
+      },{
+        "title": "Detection of Myocardial Infarction from ECG signals",
+        "subtitle": "Undergraduate Research Under Dr. Ram Bilas Pachori",
+        "location": "IIT Indore, India",
+        "date": "Feb. 2019 ‑ Apr. 2019",
+        "comments": [
+          "Researched the article.",
+          "Wrote the FBSE‑EWT algorithm from scratch in Python & replicated the results."
+        ]
+      }
+  ]
+}
