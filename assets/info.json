@@ -1,7 +1,14 @@
 {
   "education": [
     {
-      "title": "Indian Institute Of Technology (IIT), Indore",
+      "title": "Rutgers University, New Brunswick",
+      "subtitle": "MS in CS (Concentrated in ML)",
+      "location": "New Brunswick, NJ",
+      "date": "2022 - Present",
+      "comments": ["Focusing majorly on the applications of AI in Robotics"]
+    },
+    {
+      "title": "Indian Institute Of Technology, Indore",
       "subtitle": "B.Tech in Electrical Engineering",
       "location": "Indore, India",
       "date": "2021",
@@ -109,36 +116,34 @@
   ],
   "courses": [
     {
+      "title": "Computer Science",
+      "icon": "fas fa-laptop-code",
+      "Courses": [
+        "(SOE-YCSCS1)Compilers",
+        "Operating Systems",
+        "Database Management Essentials",
+        "Computer Vision",
+        "Pattern Recognition"
+      ]
+    },
+    {
+      "title": "Cloud & AI",
+      "icon":"fa-solid fa-brain",
+      "Courses": [
+        "Front‑End Web UI Frameworks and Tools: Bootstrap 4",
+        "Front‑End Web Development with React",
+        "30 days of Cloud : Cloud Engineering track",
+        "Building Transformer‑Based Natural Language Processing Applications (NVIDIA)"
+      ]
+    },
+    {
       "title": "Electrical Engineering",
+      "icon":"fa-solid fa-microchip",
       "Courses": [
         "Advanced Signal Processing",
         "Control Systems",
         "Electronic Devices",
-        "Computer Vision"
-      ]
-    },
-    {
-      "title": "Computer Science",
-      "Courses": [
-        "Computer Programming",
-        "Data Structures & Algorithms",
-        "Network Theory",
-        "Microprocessors and Digital Systems",
-        "Communication Systems"
-      ]
-    },
-    {
-      "title": "Full Stack Web Development",
-      "Courses": [
-        "Front‑End Web UI Frameworks and Tools: Bootstrap 4",
-        "Front‑End Web Development with React"
-      ]
-    },
-    {
-      "title": "Cloud and AI",
-      "Courses": [
-        "30 days of Cloud : Cloud Engineering track",
-        "Building Transformer‑Based Natural Language Processing Applications (NVIDIA)"
+        "Microprocessors and Digital Systems"
       ]
     }
   ],
@@ -154,60 +159,64 @@
         "Implemented complete Security mechanisms (like OAuth 2.0, SAML) in Java Spring",
         "Deployed a centralized monitoring environment(Grafana, Prometheus) which gather system metrics as well as docker run‑time metrics"
       ]
-    },{
-        "title": "PranavaEET",
-        "subtitle": "Artificial Intelligence Intern",
-        "location": "Hyderabad, India",
-        "date": "May 2018 - June 2018",
-        "comments": [
-          "Wrote a complete python module that provides implementations for Artificial Neural Networks, Convolutional Neural Networks, and Recurrent Neural Networks",
-          "Wrote a module similar to OpenAI gym with Snake and Pacman environments supporting Genetic Algorithms and Q‑Learning",
-          "Benchmarked the custom Neural Network module against the gym",
-          "Compared the metrics with Tensorflow and Pytorch"
-        ]
-      }
+    },
+    {
+      "title": "PranavaEET",
+      "subtitle": "Artificial Intelligence Intern",
+      "location": "Hyderabad, India",
+      "date": "May 2018 - June 2018",
+      "comments": [
+        "Wrote a complete python module that provides implementations for Artificial Neural Networks, Convolutional Neural Networks, and Recurrent Neural Networks",
+        "Wrote a module similar to OpenAI gym with Snake and Pacman environments supporting Genetic Algorithms and Q‑Learning",
+        "Benchmarked the custom Neural Network module against the gym",
+        "Compared the metrics with Tensorflow and Pytorch"
+      ]
+    }
   ],
-  "projects":[
-      {
-        "title": "A Novel Approach for Face Image Retrieval",
-        "subtitle": "Undergraduate research, Dr. Vivek kanhanghad’s lab (Undergraduate thesis)",
-        "location": "IIT Indore, India",
-        "date": "Dec. 2020 - Present",
-        "comments": [
-          "Researched different Image generation & Encoding algorithms.",
-          "Developed a novel Image retrieval pipeline with applications in Forensic sciences.",
-          "Researched different Natural Language generation techniques.",
-          "Generated a dataset with natural face descriptions and the images."
-        ]
-      },{
-        "title": "Intuitive Skeleton Tool for Synfig Studio",
-        "subtitle": "Student, Google Summer Of Code (GSOC)",
-        "location": "Github",
-        "date": "May. 2020 ‑ Aug. 2020",
-        "comments": [
-          "Understood & got accustomed with Synfig Studio’s architecture & codebase.",
-          "Researched other Animation software about Skeleton tools.",
+  "projects": [
+    {
+      "title": "A Novel Approach for Face Image Retrieval",
+      "subtitle": "Undergraduate research, Dr. Vivek kanhanghad’s lab (Undergraduate thesis)",
+      "location": "IIT Indore, India",
+      "date": "Dec. 2020 - Present",
+      "comments": [
+        "Researched different Image generation & Encoding algorithms.",
+        "Developed a novel Image retrieval pipeline with applications in Forensic sciences.",
+        "Researched different Natural Language generation techniques.",
+        "Generated a dataset with natural face descriptions and the images."
+      ]
+    },
+    {
+      "title": "Intuitive Skeleton Tool for Synfig Studio",
+      "subtitle": "Student, Google Summer Of Code (GSOC)",
+      "location": "Github",
+      "date": "May. 2020 ‑ Aug. 2020",
+      "comments": [
+        "Understood & got accustomed with Synfig Studio’s architecture & codebase.",
+        "Researched other Animation software about Skeleton tools.",
         "Implemented a simple Skeleton tool that matches the specifications of the organisation and improves on them"
-        ]
-      },{
-        "title": "Motion Matching for Godot Engine",
-        "subtitle": "Student, Google Summer Of Code (GSOC)",
-        "location": "Github",
-        "date": "May. 2019 ‑ Aug. 2019",
-        "comments": [
-          "Researched on Different ML & AI algorithms for Motion matching.",
-          "Made several games & got accustomed to Godot & it’s codebase.",
-          "Implemented the barebones implementation of Motion Matching for Godot Engine."
-        ]
-      },{
-        "title": "Detection of Myocardial Infarction from ECG signals",
-        "subtitle": "Undergraduate Research Under Dr. Ram Bilas Pachori",
-        "location": "IIT Indore, India",
-        "date": "Feb. 2019 ‑ Apr. 2019",
-        "comments": [
-          "Researched the article.",
-          "Wrote the FBSE‑EWT algorithm from scratch in Python & replicated the results."
-        ]
-      }
+      ]
+    },
+    {
+      "title": "Motion Matching for Godot Engine",
+      "subtitle": "Student, Google Summer Of Code (GSOC)",
+      "location": "Github",
+      "date": "May. 2019 ‑ Aug. 2019",
+      "comments": [
+        "Researched on Different ML & AI algorithms for Motion matching.",
+        "Made several games & got accustomed to Godot & it’s codebase.",
+        "Implemented the barebones implementation of Motion Matching for Godot Engine."
+      ]
+    },
+    {
+      "title": "Detection of Myocardial Infarction from ECG signals",
+      "subtitle": "Undergraduate Research Under Dr. Ram Bilas Pachori",
+      "location": "IIT Indore, India",
+      "date": "Feb. 2019 ‑ Apr. 2019",
+      "comments": [
+        "Researched the article.",
+        "Wrote the FBSE‑EWT algorithm from scratch in Python & replicated the results."
+      ]
+    }
   ]
 }
